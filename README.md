@@ -8,6 +8,7 @@ This project demonstrates the creation of an ERC20 token from scratch using Hard
 - Transfer functionality
 - Approval mechanism
 - Balance tracking
+- Burning capabilities
 
 ## Project Structure
 
